@@ -1,0 +1,5 @@
+# print ("hola mundo :) ")
+name=raw_input ("what is your name ?")
+print("welcome " + name + "!!" )
+edad=raw_input ("what is your edad ?")
+print("welcome " + edad + "!!" )
